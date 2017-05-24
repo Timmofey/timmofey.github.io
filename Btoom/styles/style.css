@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Cousine|Rubik+Mono+One|Scada');
+h1{
+    font-family: 'Rubik Mono One', sans-serif;
+}
+li{
+    display: inline-block;
+    font-family: 'Rubik Mono One', sans-serif;
+    background-color: rgba(0, 0, 0, 0.74)
+}
+header{
+height: 990px;
+    text-align: center;
+    background: url(../imgs/IMG_2493.JPG) 50%/cover;
+}
+.q{
+    background-color: hsla(0, 100%, 27%, 0.68);
+    width: 650px;
+    margin-left: 350px;
+}
+g{
+    font-family: 'Cousine', monospace;
+}
