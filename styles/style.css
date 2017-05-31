@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Cousine|Rubik+Mono+One|Scada');
+h2{
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 2rem;
+    color: #0000c3;
+   text-decoration-line: underline;
+}
+h3{
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 1.5rem;
+    color: #00009d;
+   text-decoration-line: underline;
+}
+h1{
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 4rem;
+   
+    color: aliceblue;
+}
+a{
+    color:aliceblue;
+    
+
+    
+}
+.aw{
+    color: #4e0000;
+}
+video{
+    width: 500px;
+    height: 300px;
+    
+}
+li{
+    color: aliceblue;
+    display: inline-block;
+    font-family: 'Rubik Mono One', sans-serif;
+    background-color: rgba(240, 248, 255, 0.31);
+}
+.rab{
+    background-color: rgba(0, 121, 209, 0.81);
+    color: aliceblue;
+    text-decoration-line: underline;
+    text-decoration-line: overline;
+
+}
+header{
+    margin: 0;
+    height: 1100px;
+    
+    text-align: center;
+    background: url(../imgs/IMG_2493.JPG) 50%/cover;
+}
+.q{
+   
+    width: 650px;
+    margin-left: 350px;
+}
+.b{
+    border-radius: 20px;
+    padding: 30px;
+    border: 10px solid #004089;
+}
+.ba{
+   border-radius: 20px;
+    padding: 30px;
+    border: 10px solid #004089;
+    background-color: rgba(0, 159, 159, 0.71);
+    font-size: 1.3rem;
+}
+p{
+    background-color: rgba(48, 109, 170, 0);
+    font-family: 'Rubik Mono One', sans-serif;
+    
+}
+
+img{
+    display: inline-block;
+   
+    height: 200px;
+}
+.ia{
+   display: inline-block;
+   transform: rotateZ(90deg) ;
+width: 250px;
+    margin: 20px;
+    
+}
+.er{
+     background-color: rgba(178, 34, 34, 0.73);
+    color:lavender;
+    font-size: 40px;
+    
+}
+.ra{
+    background-color: rgba(0, 0, 205, 0.81);
+    color: aliceblue;
+    font-family: 'Rubik Mono One', sans-serif;
+}
+strong{
+    background-color: rgb(201, 19, 19);
+    color:lavender;
+    
+}
